@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 6 TILs and counting...
+> 7 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -12,6 +12,7 @@ Each entry is kept short -- just the command/concept and a working example.
 - [docker](#docker) (1)
 - [java](#java) (1)
 - [organization](#organization) (1)
+- [postgres](#postgres) (1)
 - [system-commands](#system-commands) (1)
 
 ---
@@ -31,6 +32,10 @@ Each entry is kept short -- just the command/concept and a working example.
 ## organization
 
 - [The Collector's Fallacy](organization/the-collector's-fallacy.md)
+
+## postgres
+
+- [New Install](postgres/new-install.md)
 
 ## system-commands
 
