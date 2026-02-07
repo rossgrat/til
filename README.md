@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 8 TILs and counting...
+> 9 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -11,6 +11,7 @@ Each entry is kept short -- just the command/concept and a working example.
 - [aws-s3](#aws-s3) (1)
 - [docker](#docker) (1)
 - [java](#java) (1)
+- [linters](#linters) (1)
 - [organization](#organization) (1)
 - [postgres](#postgres) (1)
 - [system-commands](#system-commands) (1)
@@ -29,6 +30,10 @@ Each entry is kept short -- just the command/concept and a working example.
 ## docker
 
 - [Docker system prune](docker/docker-system-prune.md)
+
+## linters
+
+- [VSCode Linter Extensions for Dynamic Languages](linters/vscode-linter-extensions-for-dynamic-languages.md)
 
 ## organization
 
