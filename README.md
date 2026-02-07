@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 2 TILs and counting...
+> 3 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -8,6 +8,7 @@ Each entry is kept short -- just the command/concept and a working example.
 ---
 
 - [docker](#docker) (1)
+- [java](#java) (1)
 - [system-commands](#system-commands) (1)
 
 ---
