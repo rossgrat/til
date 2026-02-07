@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 3 TILs and counting...
+> 4 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -9,6 +9,7 @@ Each entry is kept short -- just the command/concept and a working example.
 
 - [docker](#docker) (1)
 - [java](#java) (1)
+- [organization](#organization) (1)
 - [system-commands](#system-commands) (1)
 
 ---
@@ -16,6 +17,10 @@ Each entry is kept short -- just the command/concept and a working example.
 ## docker
 
 - [Docker system prune](docker/docker-system-prune.md)
+
+## organization
+
+- [The Collector's Fallacy](organization/the-collector's-fallacy.md)
 
 ## system-commands
 
