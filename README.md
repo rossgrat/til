@@ -1,13 +1,13 @@
 # TIL (Today I Learned)
 
-> 10 TILs and counting...
+> 11 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
 
 ---
 
-- [algorithms](#algorithms) (1)
+- [algorithms](#algorithms) (2)
 - [aws-s3](#aws-s3) (1)
 - [docker](#docker) (1)
 - [heroku](#heroku) (1)
@@ -22,6 +22,7 @@ Each entry is kept short -- just the command/concept and a working example.
 
 ## algorithms
 
+- [Filter Boolean Logic](algorithms/filter-boolean-logic.md)
 - [The Universal Modulo](algorithms/the-universal-modulo.md)
 
 ## aws-s3
