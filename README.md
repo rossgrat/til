@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 17 TILs and counting...
+> 18 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -16,6 +16,7 @@ Each entry is kept short -- just the command/concept and a working example.
 - [linters](#linters) (1)
 - [organization](#organization) (1)
 - [postgres](#postgres) (6)
+- [programming-languages](#programming-languages) (1)
 - [system-commands](#system-commands) (1)
 - [typescript](#typescript) (1)
 
@@ -58,6 +59,10 @@ Each entry is kept short -- just the command/concept and a working example.
 - [New Install](postgres/new-install.md)
 - [Remote copy database](postgres/remote-copy-database.md)
 - [Removing connections](postgres/removing-connections.md)
+
+## programming-languages
+
+- [Builtin-in Getters and Setters](programming-languages/builtin-in-getters-and-setters.md)
 
 ## system-commands
 
