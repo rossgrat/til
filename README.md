@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 7 TILs and counting...
+> 8 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -14,6 +14,7 @@ Each entry is kept short -- just the command/concept and a working example.
 - [organization](#organization) (1)
 - [postgres](#postgres) (1)
 - [system-commands](#system-commands) (1)
+- [typescript](#typescript) (1)
 
 ---
 
@@ -40,6 +41,10 @@ Each entry is kept short -- just the command/concept and a working example.
 ## system-commands
 
 - [Disk usage CLI](system-commands/disk-usage-cli.md)
+
+## typescript
+
+- [Async, Await, and Callback Hell](typescript/async,-await,-and-callback-hell.md)
 
 ---
 
