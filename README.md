@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 1 TILs and counting...
+> 2 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -8,12 +8,17 @@ Each entry is kept short -- just the command/concept and a working example.
 ---
 
 - [docker](#docker) (1)
+- [system-commands](#system-commands) (1)
 
 ---
 
 ## docker
 
 - [Docker system prune](docker/docker-system-prune.md)
+
+## system-commands
+
+- [Disk usage CLI](system-commands/disk-usage-cli.md)
 
 ---
 
