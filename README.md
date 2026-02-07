@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 5 TILs and counting...
+> 6 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -8,6 +8,7 @@ Each entry is kept short -- just the command/concept and a working example.
 ---
 
 - [algorithms](#algorithms) (1)
+- [aws-s3](#aws-s3) (1)
 - [docker](#docker) (1)
 - [java](#java) (1)
 - [organization](#organization) (1)
@@ -18,6 +19,10 @@ Each entry is kept short -- just the command/concept and a working example.
 ## algorithms
 
 - [The Universal Modulo](algorithms/the-universal-modulo.md)
+
+## aws-s3
+
+- [Bucket Permission Policies](aws-s3/bucket-permission-policies.md)
 
 ## docker
 
