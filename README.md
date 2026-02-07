@@ -1,14 +1,19 @@
 # TIL (Today I Learned)
 
-> 0 TILs and counting...
+> 1 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
 
 ---
 
+- [docker](#docker) (1)
 
 ---
+
+## docker
+
+- [Docker system prune](docker/docker-system-prune.md)
 
 ---
 
