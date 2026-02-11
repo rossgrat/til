@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 19 TILs and counting...
+> 20 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -19,6 +19,7 @@ Each entry is kept short -- just the command/concept and a working example.
 - [postgres](#postgres) (6)
 - [programming-languages](#programming-languages) (1)
 - [system-commands](#system-commands) (1)
+- [tools](#tools) (1)
 - [typescript](#typescript) (1)
 
 ---
@@ -72,6 +73,10 @@ Each entry is kept short -- just the command/concept and a working example.
 ## system-commands
 
 - [Disk usage CLI](system-commands/disk-usage-cli.md)
+
+## tools
+
+- [Sourcegraph CLI](tools/sourcegraph-cli.md)
 
 ## typescript
 
