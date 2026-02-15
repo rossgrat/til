@@ -1,12 +1,13 @@
 # TIL (Today I Learned)
 
-> 22 TILs and counting...
+> 23 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
 
 ---
 
+- [ai](#ai) (1)
 - [algorithms](#algorithms) (3)
 - [aws-s3](#aws-s3) (1)
 - [aws](#aws) (1)
@@ -24,6 +25,10 @@ Each entry is kept short -- just the command/concept and a working example.
 - [typescript](#typescript) (1)
 
 ---
+
+## ai
+
+- [Rules of the Road](ai/rules-of-the-road.md)
 
 ## algorithms
 
