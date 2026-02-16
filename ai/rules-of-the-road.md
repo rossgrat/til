@@ -9,7 +9,7 @@ AI shines at very quickly taking in a lot of context, extracting information tha
 
 Read the Slack threads before using a Slack Agent to summarize the content, read the documentation before asking AI to extract what you need.
 
-## Use AI as a reviwer
+## Use AI as a reviewer
 AI is pretty good at looking at what you have and checking your work. Given a whole codebase and a diff, it can catch bugs, typos, or missing logic in an implementation. 
 
 **Figure out the problem, and even do the implementation yourself, use AI to find what you missed.**
