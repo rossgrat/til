@@ -1,12 +1,13 @@
 # TIL (Today I Learned)
 
-> 25 TILs and counting...
+> 26 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
 
 ---
 
+- [acronyms](#acronyms) (1)
 - [ai](#ai) (1)
 - [algorithms](#algorithms) (4)
 - [aws-s3](#aws-s3) (1)
@@ -25,6 +26,10 @@ Each entry is kept short -- just the command/concept and a working example.
 - [typescript](#typescript) (1)
 
 ---
+
+## acronyms
+
+- [ZFS - Zettabyte File System](acronyms/zfs---zettabyte-file-system.md)
 
 ## ai
 
