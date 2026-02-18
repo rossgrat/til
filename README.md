@@ -7,7 +7,6 @@ Each entry is kept short -- just the command/concept and a working example.
 
 ---
 
-- [acronyms](#acronyms) (1)
 - [ai](#ai) (1)
 - [algorithms](#algorithms) (4)
 - [aws-s3](#aws-s3) (1)
@@ -22,14 +21,11 @@ Each entry is kept short -- just the command/concept and a working example.
 - [programming-languages](#programming-languages) (1)
 - [system-commands](#system-commands) (1)
 - [terminology](#terminology) (1)
+- [terms](#terms) (1)
 - [tools](#tools) (1)
 - [typescript](#typescript) (1)
 
 ---
-
-## acronyms
-
-- [ZFS - Zettabyte File System](acronyms/zfs---zettabyte-file-system.md)
 
 ## ai
 
@@ -91,6 +87,10 @@ Each entry is kept short -- just the command/concept and a working example.
 ## terminology
 
 - [Heuristic](terminology/heuristic.md)
+
+## terms
+
+- [ZFS - Zettabyte File System](terms/zfs---zettabyte-file-system.md)
 
 ## tools
 
