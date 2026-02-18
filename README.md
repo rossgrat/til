@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 24 TILs and counting...
+> 25 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -11,7 +11,7 @@ Each entry is kept short -- just the command/concept and a working example.
 - [algorithms](#algorithms) (4)
 - [aws-s3](#aws-s3) (1)
 - [aws](#aws) (1)
-- [docker](#docker) (1)
+- [docker](#docker) (2)
 - [go](#go) (1)
 - [heroku](#heroku) (1)
 - [java](#java) (1)
@@ -48,6 +48,7 @@ Each entry is kept short -- just the command/concept and a working example.
 ## docker
 
 - [Docker system prune](docker/docker-system-prune.md)
+- [One-shot container for command testing](docker/one-shot-container-for-command-testing.md)
 
 ## go
 
