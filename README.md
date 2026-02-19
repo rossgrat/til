@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 26 TILs and counting...
+> 27 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -8,7 +8,7 @@ Each entry is kept short -- just the command/concept and a working example.
 ---
 
 - [ai](#ai) (1)
-- [algorithms](#algorithms) (4)
+- [algorithms](#algorithms) (5)
 - [aws-s3](#aws-s3) (1)
 - [aws](#aws) (1)
 - [docker](#docker) (2)
@@ -34,6 +34,7 @@ Each entry is kept short -- just the command/concept and a working example.
 ## algorithms
 
 - [Filter Boolean Logic](algorithms/filter-boolean-logic.md)
+- [Loop Invariants](algorithms/loop-invariants.md)
 - [Problem Specification](algorithms/problem-specification.md)
 - [Proofs of Correctness](algorithms/proofs-of-correctness.md)
 - [The Universal Modulo](algorithms/the-universal-modulo.md)
