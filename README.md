@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 29 TILs and counting...
+> 30 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -11,10 +11,11 @@ Each entry is kept short -- just the command/concept and a working example.
 - [algorithms](#algorithms) (5)
 - [aws-s3](#aws-s3) (1)
 - [aws](#aws) (1)
-- [distributed-systems](#distributed-systems) (1)
+- [backend](#backend) (1)
 - [docker](#docker) (2)
 - [go](#go) (1)
 - [heroku](#heroku) (1)
+- [infra](#infra) (1)
 - [java](#java) (1)
 - [kernel](#kernel) (1)
 - [linters](#linters) (1)
@@ -49,9 +50,9 @@ Each entry is kept short -- just the command/concept and a working example.
 
 - [AWS IAM Roles](aws/aws-iam-roles.md)
 
-## distributed-systems
+## backend
 
-- [Temporal](distributed-systems/temporal.md)
+- [Temporal](backend/temporal.md)
 
 ## docker
 
@@ -65,6 +66,10 @@ Each entry is kept short -- just the command/concept and a working example.
 ## heroku
 
 - [Heroku Deployment Branches](heroku/heroku-deployment-branches.md)
+
+## infra
+
+- [Hypervisors and Virtualization](infra/hypervisors-and-virtualization.md)
 
 ## kernel
 
