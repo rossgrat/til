@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 30 TILs and counting...
+> 31 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -15,7 +15,7 @@ Each entry is kept short -- just the command/concept and a working example.
 - [docker](#docker) (2)
 - [go](#go) (1)
 - [heroku](#heroku) (1)
-- [infra](#infra) (1)
+- [infra](#infra) (2)
 - [java](#java) (1)
 - [kernel](#kernel) (1)
 - [linters](#linters) (1)
@@ -70,6 +70,7 @@ Each entry is kept short -- just the command/concept and a working example.
 ## infra
 
 - [Hypervisors and Virtualization](infra/hypervisors-and-virtualization.md)
+- [Service Mesh](infra/service-mesh.md)
 
 ## kernel
 
