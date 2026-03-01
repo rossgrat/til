@@ -6,3 +6,5 @@ There are two types of virtualization. The first is bare-metal, where a hypervis
 
 A hypervisor enables bare-metal virtualization. A hypervisor runs in place of a regular OS, and allows multiple virtualized host OSes to share the underlying physical compute.
 
+Virtualization is generally distinct from containers, in that containers share a kernel and an OS, whereas virtual machines do not.
+
