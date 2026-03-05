@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 31 TILs and counting...
+> 32 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -22,6 +22,7 @@ Each entry is kept short -- just the command/concept and a working example.
 - [organization](#organization) (1)
 - [postgres](#postgres) (6)
 - [programming-languages](#programming-languages) (1)
+- [quotes](#quotes) (1)
 - [system-commands](#system-commands) (1)
 - [terminology](#terminology) (1)
 - [terms](#terms) (1)
@@ -96,6 +97,10 @@ Each entry is kept short -- just the command/concept and a working example.
 ## programming-languages
 
 - [Builtin-in Getters and Setters](programming-languages/builtin-in-getters-and-setters.md)
+
+## quotes
+
+- [Code is a liability](quotes/code-is-a-liability.md)
 
 ## system-commands
 
