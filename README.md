@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 32 TILs and counting...
+> 33 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -11,7 +11,7 @@ Each entry is kept short -- just the command/concept and a working example.
 - [algorithms](#algorithms) (5)
 - [aws-s3](#aws-s3) (1)
 - [aws](#aws) (1)
-- [backend](#backend) (1)
+- [backend](#backend) (2)
 - [docker](#docker) (2)
 - [go](#go) (1)
 - [heroku](#heroku) (1)
@@ -53,6 +53,7 @@ Each entry is kept short -- just the command/concept and a working example.
 
 ## backend
 
+- [DTO](backend/dto.md)
 - [Temporal](backend/temporal.md)
 
 ## docker
