@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 34 TILs and counting...
+> 35 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -19,6 +19,7 @@ Each entry is kept short -- just the command/concept and a working example.
 - [java](#java) (1)
 - [kernel](#kernel) (1)
 - [linters](#linters) (1)
+- [lua](#lua) (1)
 - [organization](#organization) (1)
 - [postgres](#postgres) (6)
 - [programming-languages](#programming-languages) (1)
@@ -81,6 +82,10 @@ Each entry is kept short -- just the command/concept and a working example.
 ## linters
 
 - [VSCode Linter Extensions for Dynamic Languages](linters/vscode-linter-extensions-for-dynamic-languages.md)
+
+## lua
+
+- [Lua Tables, Metatables, Modules](lua/lua-tables,-metatables,-modules.md)
 
 ## organization
 
