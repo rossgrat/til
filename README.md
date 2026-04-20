@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 35 TILs and counting...
+> 36 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -21,7 +21,7 @@ Each entry is kept short -- just the command/concept and a working example.
 - [linters](#linters) (1)
 - [lua](#lua) (1)
 - [organization](#organization) (1)
-- [postgres](#postgres) (6)
+- [postgres](#postgres) (7)
 - [programming-languages](#programming-languages) (1)
 - [quotes](#quotes) (2)
 - [system-commands](#system-commands) (1)
@@ -93,6 +93,7 @@ Each entry is kept short -- just the command/concept and a working example.
 
 ## postgres
 
+- [Advisory Locks](postgres/advisory-locks.md)
 - [Documentation Quick Links](postgres/documentation-quick-links.md)
 - [Executing code from the command line](postgres/executing-code-from-the-command-line.md)
 - [Local dumps](postgres/local-dumps.md)
