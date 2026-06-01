@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 37 TILs and counting...
+> 38 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -24,6 +24,7 @@ Each entry is kept short -- just the command/concept and a working example.
 - [postgres](#postgres) (8)
 - [programming-languages](#programming-languages) (1)
 - [quotes](#quotes) (2)
+- [slack](#slack) (1)
 - [system-commands](#system-commands) (1)
 - [terminology](#terminology) (1)
 - [terms](#terms) (1)
@@ -110,6 +111,10 @@ Each entry is kept short -- just the command/concept and a working example.
 
 - [Code is a liability](quotes/code-is-a-liability.md)
 - [Consume vs Create](quotes/consume-vs-create.md)
+
+## slack
+
+- [Slash commands and payloads](slack/slash-commands-and-payloads.md)
 
 ## system-commands
 
