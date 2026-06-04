@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 38 TILs and counting...
+> 39 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -20,6 +20,7 @@ Each entry is kept short -- just the command/concept and a working example.
 - [kernel](#kernel) (1)
 - [linters](#linters) (1)
 - [lua](#lua) (1)
+- [macos](#macos) (1)
 - [organization](#organization) (1)
 - [postgres](#postgres) (8)
 - [programming-languages](#programming-languages) (1)
@@ -87,6 +88,10 @@ Each entry is kept short -- just the command/concept and a working example.
 ## lua
 
 - [Lua Tables, Metatables, Modules](lua/lua-tables,-metatables,-modules.md)
+
+## macos
+
+- [launchd & pmset & caffeinate](macos/launchd-&-pmset-&-caffeinate.md)
 
 ## organization
 
