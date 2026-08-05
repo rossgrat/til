@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 40 TILs and counting...
+> 41 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -18,6 +18,7 @@ Each entry is kept short -- just the command/concept and a working example.
 - [heroku](#heroku) (1)
 - [infra](#infra) (2)
 - [java](#java) (1)
+- [kafka](#kafka) (1)
 - [kernel](#kernel) (1)
 - [linters](#linters) (1)
 - [lua](#lua) (1)
@@ -81,6 +82,10 @@ Each entry is kept short -- just the command/concept and a working example.
 
 - [Hypervisors and Virtualization](infra/hypervisors-and-virtualization.md)
 - [Service Mesh](infra/service-mesh.md)
+
+## kafka
+
+- [Edge-trigged vs. Level-trigged](kafka/edge-trigged-vs.-level-trigged.md)
 
 ## kernel
 
