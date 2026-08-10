@@ -60,7 +60,7 @@ type Entity interface {
 ```
 
 
-## Resources
+## Sources
 - [Scrap your Boilerplate, Lammel, Jones](https://www.microsoft.com/en-us/research/wp-content/uploads/2003/01/hmap.pdf)
 - [Go protobuf APIv2](https://go.dev/blog/protobuf-apiv2)
 - [Protobuf custom options](https://protobuf.dev/programming-guides/proto2/#customoptions)
