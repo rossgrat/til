@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 42 TILs and counting...
+> 45 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -14,7 +14,9 @@ Each entry is kept short -- just the command/concept and a working example.
 - [backend](#backend) (2)
 - [contracts](#contracts) (1)
 - [data-structures](#data-structures) (1)
+- [database](#database) (1)
 - [docker](#docker) (2)
+- [education](#education) (1)
 - [go](#go) (1)
 - [heroku](#heroku) (1)
 - [infra](#infra) (2)
@@ -26,7 +28,7 @@ Each entry is kept short -- just the command/concept and a working example.
 - [macos](#macos) (1)
 - [organization](#organization) (1)
 - [postgres](#postgres) (8)
-- [programming-languages](#programming-languages) (1)
+- [programming-languages](#programming-languages) (2)
 - [quotes](#quotes) (2)
 - [slack](#slack) (1)
 - [system-commands](#system-commands) (1)
@@ -70,10 +72,18 @@ Each entry is kept short -- just the command/concept and a working example.
 
 - [Statistical Multiplexing](data-structures/statistical-multiplexing.md)
 
+## database
+
+- [CLI Tools for databases](database/cli-tools-for-databases.md)
+
 ## docker
 
 - [Docker system prune](docker/docker-system-prune.md)
 - [One-shot container for command testing](docker/one-shot-container-for-command-testing.md)
+
+## education
+
+- [Making Learning Stick](education/making-learning-stick.md)
 
 ## go
 
@@ -126,6 +136,7 @@ Each entry is kept short -- just the command/concept and a working example.
 ## programming-languages
 
 - [Builtin-in Getters and Setters](programming-languages/builtin-in-getters-and-setters.md)
+- [Codegen vs. Reflection](programming-languages/codegen-vs.-reflection.md)
 
 ## quotes
 
