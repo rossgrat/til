@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 45 TILs and counting...
+> 46 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -16,6 +16,7 @@ Each entry is kept short -- just the command/concept and a working example.
 - [data-structures](#data-structures) (1)
 - [database](#database) (1)
 - [docker](#docker) (2)
+- [dsp](#dsp) (1)
 - [education](#education) (1)
 - [go](#go) (1)
 - [heroku](#heroku) (1)
@@ -80,6 +81,10 @@ Each entry is kept short -- just the command/concept and a working example.
 
 - [Docker system prune](docker/docker-system-prune.md)
 - [One-shot container for command testing](docker/one-shot-container-for-command-testing.md)
+
+## dsp
+
+- [MacOS Audio Drivers and Microphone Permissions](dsp/macos-audio-drivers-and-microphone-permissions.md)
 
 ## education
 
