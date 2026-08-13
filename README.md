@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 46 TILs and counting...
+> 47 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -24,6 +24,7 @@ Each entry is kept short -- just the command/concept and a working example.
 - [java](#java) (1)
 - [kafka](#kafka) (1)
 - [kernel](#kernel) (1)
+- [kubernetes](#kubernetes) (1)
 - [linters](#linters) (1)
 - [lua](#lua) (1)
 - [macos](#macos) (1)
@@ -110,6 +111,10 @@ Each entry is kept short -- just the command/concept and a working example.
 ## kernel
 
 - [MMAP Top to Bottom](kernel/mmap-top-to-bottom.md)
+
+## kubernetes
+
+- [Non-Mutable Tags](kubernetes/non-mutable-tags.md)
 
 ## linters
 
