@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-> 47 TILs and counting...
+> 48 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
@@ -22,7 +22,7 @@ Each entry is kept short -- just the command/concept and a working example.
 - [heroku](#heroku) (1)
 - [infra](#infra) (2)
 - [java](#java) (1)
-- [kafka](#kafka) (1)
+- [kafka](#kafka) (2)
 - [kernel](#kernel) (1)
 - [kubernetes](#kubernetes) (1)
 - [linters](#linters) (1)
@@ -106,6 +106,7 @@ Each entry is kept short -- just the command/concept and a working example.
 
 ## kafka
 
+- [Confluent Schema Registry](kafka/confluent-schema-registry.md)
 - [Edge-trigged vs. Level-trigged](kafka/edge-trigged-vs.-level-trigged.md)
 
 ## kernel
