@@ -1,12 +1,13 @@
 # TIL (Today I Learned)
 
-> 47 TILs and counting...
+> 48 TILs and counting...
 
 A collection of short, useful things I've learned day to day.
 Each entry is kept short -- just the command/concept and a working example.
 
 ---
 
+- [ai-workflow](#ai-workflow) (1)
 - [ai](#ai) (1)
 - [algorithms](#algorithms) (5)
 - [aws-s3](#aws-s3) (1)
@@ -40,6 +41,10 @@ Each entry is kept short -- just the command/concept and a working example.
 - [typescript](#typescript) (1)
 
 ---
+
+## ai-workflow
+
+- [AI delegation without loss of rigor or skill](ai-workflow/ai-workflow-landscape-report.md)
 
 ## ai
 
